@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1022097584747",
+    "project_id": "worknotification",
+    "storage_bucket": "worknotification.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022097584747:android:221a7c23cb073d4cd8372e",
+        "android_client_info": {
+          "package_name": "com.example.dersgo_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4qHs0UqDy6v8KjGW3GxFMlaOEUsn8lnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
